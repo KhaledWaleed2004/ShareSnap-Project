@@ -1,2 +1,0 @@
-# ShareSnap-Project
- ShareSnap
